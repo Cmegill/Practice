@@ -1,0 +1,3 @@
+text master 
+Master text line
+Feature branch 
